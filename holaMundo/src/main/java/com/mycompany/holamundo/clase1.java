@@ -10,5 +10,5 @@ package com.mycompany.holamundo;
  * @author Diurno
  */
 public class clase1 {
-    private int uno;
+    private int uno = 1;
 }
