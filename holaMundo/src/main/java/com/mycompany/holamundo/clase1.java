@@ -11,4 +11,5 @@ package com.mycompany.holamundo;
  */
 public class clase1 {
     private int uno = 1;
+    public int tres;
 }
